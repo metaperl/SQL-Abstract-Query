@@ -446,6 +446,8 @@ L<https://github.com/bluefeet/SQL-Abstract-Query/issues>
 
 =over
 
+=item * The Insert, Update, and Delete docs are way under-documented.
+
 =item * Document all the various ways this module can be used, possibly as a
 cookboob.  Documentation is sorely missing info on placeholders, for one.
 
