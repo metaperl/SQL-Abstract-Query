@@ -11,7 +11,7 @@ SQL::Abstract::Query::Select - An object that represents a SQL SELECT.
 You'll need to create an L<SQL::Abstract::Query> object first:
 
     use SQL::Abstract::Query;
-    my $query = SQL::Absract::Query->new();
+    my $query = SQL::Abstract::Query->new();
 
 Now you can create a select object and use it:
 
